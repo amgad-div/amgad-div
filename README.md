@@ -1,7 +1,6 @@
 - 👋 Hello, I’m amgad-Nady
-- 👀 I’m interested in Ai specially in machine learning and deep learning
-- 🌱 I’m currently learning machine learning 
-- * i’m seeking to be a machine learning engineer
+- 👀 I’m interested in Data specially in Data Engineer and Machine learning
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 
 
